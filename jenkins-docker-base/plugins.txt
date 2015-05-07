@@ -1,12 +1,8 @@
-active-directory:latest
 git:latest
 github:latest
 ghprb:latest
 github-oauth:latest
 slack:latest
-docker-build-publish:latest
-docker-build-step:latest
-docker-plugin:latest
 scm-api:latest
 git-client:latest
 github-api:latest
